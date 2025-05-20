@@ -1,8 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224040343
+# Name:  Swetha A
+# Date:09/04/2025
 
 
 # AIM:
@@ -38,11 +38,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/f5744cb3-0d88-4fd9-9e57-7f3c8f8a6bf1)
 
 # CLASS DIAGRAM
 
@@ -58,6 +54,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+![image](https://github.com/user-attachments/assets/7be1bf64-17e0-48e7-8388-71584c637023)
 
 
 # COMMUNICTION DIAGRAM:
@@ -97,14 +94,12 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
-
-
-
 # SEQUENCE DIAGRAM
 
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
+
 
 
 # BENEFITS OF SEQUENCE DIAGRAM
@@ -118,7 +113,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-
+![image](https://github.com/user-attachments/assets/ccc16b23-8328-4249-9050-04412109a3b8)
 
 
 
